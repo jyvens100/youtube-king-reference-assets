@@ -1,0 +1,479 @@
+{
+  "mode": "public_reference_asset_export",
+  "run_dir": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\pilot_20260523_201556",
+  "export_folder": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\pilot_20260523_201556\\public_reference_assets",
+  "upload_folder_name": "public_reference_assets",
+  "ai_video_public_asset_base_url": "",
+  "assets": [
+    {
+      "kind": "cast_sheet",
+      "source_relative_path": "assets/reference_images/canon_cast_sheet.png",
+      "export_relative_path": "public_reference_assets/cast_sheet_export_folder/canon_cast_sheet.png",
+      "upload_path": "cast_sheet_export_folder/canon_cast_sheet.png",
+      "mime_type": "image/png",
+      "bytes": 169531,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "character_front",
+      "source_relative_path": "assets/reference_images/characters/milo_front.png",
+      "export_relative_path": "public_reference_assets/characters/milo_front.png",
+      "upload_path": "characters/milo_front.png",
+      "mime_type": "image/png",
+      "bytes": 468014,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/milo_talking.png",
+      "export_relative_path": "public_reference_assets/expressions/milo_talking.png",
+      "upload_path": "expressions/milo_talking.png",
+      "mime_type": "image/png",
+      "bytes": 49940,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/milo_panic.png",
+      "export_relative_path": "public_reference_assets/expressions/milo_panic.png",
+      "upload_path": "expressions/milo_panic.png",
+      "mime_type": "image/png",
+      "bytes": 49798,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/milo_shocked.png",
+      "export_relative_path": "public_reference_assets/expressions/milo_shocked.png",
+      "upload_path": "expressions/milo_shocked.png",
+      "mime_type": "image/png",
+      "bytes": 51604,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/milo_suspicious.png",
+      "export_relative_path": "public_reference_assets/expressions/milo_suspicious.png",
+      "upload_path": "expressions/milo_suspicious.png",
+      "mime_type": "image/png",
+      "bytes": 51603,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/milo_soft_smile.png",
+      "export_relative_path": "public_reference_assets/expressions/milo_soft_smile.png",
+      "upload_path": "expressions/milo_soft_smile.png",
+      "mime_type": "image/png",
+      "bytes": 50061,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "character_front",
+      "source_relative_path": "assets/reference_images/characters/tessa_front.png",
+      "export_relative_path": "public_reference_assets/characters/tessa_front.png",
+      "upload_path": "characters/tessa_front.png",
+      "mime_type": "image/png",
+      "bytes": 392186,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/tessa_talking.png",
+      "export_relative_path": "public_reference_assets/expressions/tessa_talking.png",
+      "upload_path": "expressions/tessa_talking.png",
+      "mime_type": "image/png",
+      "bytes": 49459,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/tessa_panic.png",
+      "export_relative_path": "public_reference_assets/expressions/tessa_panic.png",
+      "upload_path": "expressions/tessa_panic.png",
+      "mime_type": "image/png",
+      "bytes": 48990,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/tessa_shocked.png",
+      "export_relative_path": "public_reference_assets/expressions/tessa_shocked.png",
+      "upload_path": "expressions/tessa_shocked.png",
+      "mime_type": "image/png",
+      "bytes": 50819,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/tessa_suspicious.png",
+      "export_relative_path": "public_reference_assets/expressions/tessa_suspicious.png",
+      "upload_path": "expressions/tessa_suspicious.png",
+      "mime_type": "image/png",
+      "bytes": 51189,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/tessa_soft_smile.png",
+      "export_relative_path": "public_reference_assets/expressions/tessa_soft_smile.png",
+      "upload_path": "expressions/tessa_soft_smile.png",
+      "mime_type": "image/png",
+      "bytes": 49597,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "character_front",
+      "source_relative_path": "assets/reference_images/characters/jae_front.png",
+      "export_relative_path": "public_reference_assets/characters/jae_front.png",
+      "upload_path": "characters/jae_front.png",
+      "mime_type": "image/png",
+      "bytes": 564456,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/jae_talking.png",
+      "export_relative_path": "public_reference_assets/expressions/jae_talking.png",
+      "upload_path": "expressions/jae_talking.png",
+      "mime_type": "image/png",
+      "bytes": 47774,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/jae_panic.png",
+      "export_relative_path": "public_reference_assets/expressions/jae_panic.png",
+      "upload_path": "expressions/jae_panic.png",
+      "mime_type": "image/png",
+      "bytes": 48665,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/jae_shocked.png",
+      "export_relative_path": "public_reference_assets/expressions/jae_shocked.png",
+      "upload_path": "expressions/jae_shocked.png",
+      "mime_type": "image/png",
+      "bytes": 50410,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/jae_suspicious.png",
+      "export_relative_path": "public_reference_assets/expressions/jae_suspicious.png",
+      "upload_path": "expressions/jae_suspicious.png",
+      "mime_type": "image/png",
+      "bytes": 49339,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/jae_soft_smile.png",
+      "export_relative_path": "public_reference_assets/expressions/jae_soft_smile.png",
+      "upload_path": "expressions/jae_soft_smile.png",
+      "mime_type": "image/png",
+      "bytes": 47955,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "character_front",
+      "source_relative_path": "assets/reference_images/characters/ravi_front.png",
+      "export_relative_path": "public_reference_assets/characters/ravi_front.png",
+      "upload_path": "characters/ravi_front.png",
+      "mime_type": "image/png",
+      "bytes": 363104,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/ravi_talking.png",
+      "export_relative_path": "public_reference_assets/expressions/ravi_talking.png",
+      "upload_path": "expressions/ravi_talking.png",
+      "mime_type": "image/png",
+      "bytes": 48385,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/ravi_panic.png",
+      "export_relative_path": "public_reference_assets/expressions/ravi_panic.png",
+      "upload_path": "expressions/ravi_panic.png",
+      "mime_type": "image/png",
+      "bytes": 48087,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/ravi_shocked.png",
+      "export_relative_path": "public_reference_assets/expressions/ravi_shocked.png",
+      "upload_path": "expressions/ravi_shocked.png",
+      "mime_type": "image/png",
+      "bytes": 49825,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/ravi_suspicious.png",
+      "export_relative_path": "public_reference_assets/expressions/ravi_suspicious.png",
+      "upload_path": "expressions/ravi_suspicious.png",
+      "mime_type": "image/png",
+      "bytes": 49969,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/ravi_soft_smile.png",
+      "export_relative_path": "public_reference_assets/expressions/ravi_soft_smile.png",
+      "upload_path": "expressions/ravi_soft_smile.png",
+      "mime_type": "image/png",
+      "bytes": 48566,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "character_front",
+      "source_relative_path": "assets/reference_images/characters/ms_vell_front.png",
+      "export_relative_path": "public_reference_assets/characters/ms_vell_front.png",
+      "upload_path": "characters/ms_vell_front.png",
+      "mime_type": "image/png",
+      "bytes": 538892,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/ms_vell_talking.png",
+      "export_relative_path": "public_reference_assets/expressions/ms_vell_talking.png",
+      "upload_path": "expressions/ms_vell_talking.png",
+      "mime_type": "image/png",
+      "bytes": 53661,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/ms_vell_panic.png",
+      "export_relative_path": "public_reference_assets/expressions/ms_vell_panic.png",
+      "upload_path": "expressions/ms_vell_panic.png",
+      "mime_type": "image/png",
+      "bytes": 53578,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/ms_vell_shocked.png",
+      "export_relative_path": "public_reference_assets/expressions/ms_vell_shocked.png",
+      "upload_path": "expressions/ms_vell_shocked.png",
+      "mime_type": "image/png",
+      "bytes": 55440,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/ms_vell_suspicious.png",
+      "export_relative_path": "public_reference_assets/expressions/ms_vell_suspicious.png",
+      "upload_path": "expressions/ms_vell_suspicious.png",
+      "mime_type": "image/png",
+      "bytes": 55235,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "expression",
+      "source_relative_path": "assets/reference_images/expressions/ms_vell_soft_smile.png",
+      "export_relative_path": "public_reference_assets/expressions/ms_vell_soft_smile.png",
+      "upload_path": "expressions/ms_vell_soft_smile.png",
+      "mime_type": "image/png",
+      "bytes": 53776,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "style_guide",
+      "source_relative_path": "public_reference_assets/style_guides/color_palette.png",
+      "export_relative_path": "public_reference_assets/style_guides/color_palette.png",
+      "upload_path": "style_guides/color_palette.png",
+      "mime_type": "image/png",
+      "bytes": 37349,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    },
+    {
+      "kind": "style_guide",
+      "source_relative_path": "public_reference_assets/style_guides/character_rules.png",
+      "export_relative_path": "public_reference_assets/style_guides/character_rules.png",
+      "upload_path": "style_guides/character_rules.png",
+      "mime_type": "image/png",
+      "bytes": 49594,
+      "public_url": "",
+      "remote_status": {
+        "checked": false,
+        "error": "Missing URL."
+      }
+    }
+  ],
+  "required_env": "AI_VIDEO_PUBLIC_ASSET_BASE_URL",
+  "upload_rule": "Upload the contents of public_reference_assets so each upload_path is reachable at AI_VIDEO_PUBLIC_ASSET_BASE_URL/upload_path.",
+  "validated": false,
+  "errors": [
+    "AI_VIDEO_PUBLIC_ASSET_BASE_URL is blank. Upload public_reference_assets and add the public base URL to .env."
+  ],
+  "warnings": [
+    "cast_sheet_export_folder/canon_cast_sheet.png: Missing URL.",
+    "characters/milo_front.png: Missing URL.",
+    "expressions/milo_talking.png: Missing URL.",
+    "expressions/milo_panic.png: Missing URL.",
+    "expressions/milo_shocked.png: Missing URL.",
+    "expressions/milo_suspicious.png: Missing URL.",
+    "expressions/milo_soft_smile.png: Missing URL.",
+    "characters/tessa_front.png: Missing URL.",
+    "expressions/tessa_talking.png: Missing URL.",
+    "expressions/tessa_panic.png: Missing URL.",
+    "expressions/tessa_shocked.png: Missing URL.",
+    "expressions/tessa_suspicious.png: Missing URL.",
+    "expressions/tessa_soft_smile.png: Missing URL.",
+    "characters/jae_front.png: Missing URL.",
+    "expressions/jae_talking.png: Missing URL.",
+    "expressions/jae_panic.png: Missing URL.",
+    "expressions/jae_shocked.png: Missing URL.",
+    "expressions/jae_suspicious.png: Missing URL.",
+    "expressions/jae_soft_smile.png: Missing URL.",
+    "characters/ravi_front.png: Missing URL.",
+    "expressions/ravi_talking.png: Missing URL.",
+    "expressions/ravi_panic.png: Missing URL.",
+    "expressions/ravi_shocked.png: Missing URL.",
+    "expressions/ravi_suspicious.png: Missing URL.",
+    "expressions/ravi_soft_smile.png: Missing URL.",
+    "characters/ms_vell_front.png: Missing URL.",
+    "expressions/ms_vell_talking.png: Missing URL.",
+    "expressions/ms_vell_panic.png: Missing URL.",
+    "expressions/ms_vell_shocked.png: Missing URL.",
+    "expressions/ms_vell_suspicious.png: Missing URL.",
+    "expressions/ms_vell_soft_smile.png: Missing URL.",
+    "style_guides/color_palette.png: Missing URL.",
+    "style_guides/character_rules.png: Missing URL."
+  ]
+}
