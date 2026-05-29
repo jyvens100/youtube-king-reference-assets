@@ -1,0 +1,583 @@
+{
+  "mode": "clean_source_frame_generation_v2",
+  "run_dir": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001",
+  "folder": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2",
+  "priority_scenes": [
+    24,
+    25,
+    27,
+    29
+  ],
+  "frame_count": 28,
+  "frames": [
+    {
+      "shot_id": "scene-24-shot-01",
+      "scene": 24,
+      "shot": 1,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-24-shot-01.png",
+      "relative_path": "clean_provider_frames_v2/scene-24-shot-01.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-24-shot-01.png",
+      "retention_role": "scene hook",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-24-shot-02",
+      "scene": 24,
+      "shot": 2,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-24-shot-02.png",
+      "relative_path": "clean_provider_frames_v2/scene-24-shot-02.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-24-shot-02.png",
+      "retention_role": "comedy/reaction spike",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-24-shot-03",
+      "scene": 24,
+      "shot": 3,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-24-shot-03.png",
+      "relative_path": "clean_provider_frames_v2/scene-24-shot-03.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-24-shot-03.png",
+      "retention_role": "surprise/retention button",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-24-shot-09",
+      "scene": 24,
+      "shot": 9,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-24-shot-09.png",
+      "relative_path": "clean_provider_frames_v2/scene-24-shot-09.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-24-shot-09.png",
+      "retention_role": "story momentum",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-24-shot-10",
+      "scene": 24,
+      "shot": 10,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-24-shot-10.png",
+      "relative_path": "clean_provider_frames_v2/scene-24-shot-10.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-24-shot-10.png",
+      "retention_role": "comedy/reaction spike",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-24-shot-11",
+      "scene": 24,
+      "shot": 11,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-24-shot-11.png",
+      "relative_path": "clean_provider_frames_v2/scene-24-shot-11.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-24-shot-11.png",
+      "retention_role": "emotional payoff",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-24-shot-14",
+      "scene": 24,
+      "shot": 14,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-24-shot-14.png",
+      "relative_path": "clean_provider_frames_v2/scene-24-shot-14.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-24-shot-14.png",
+      "retention_role": "surprise/retention button",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-25-shot-01",
+      "scene": 25,
+      "shot": 1,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-25-shot-01.png",
+      "relative_path": "clean_provider_frames_v2/scene-25-shot-01.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-25-shot-01.png",
+      "retention_role": "scene hook",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-25-shot-02",
+      "scene": 25,
+      "shot": 2,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-25-shot-02.png",
+      "relative_path": "clean_provider_frames_v2/scene-25-shot-02.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-25-shot-02.png",
+      "retention_role": "comedy/reaction spike",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-25-shot-03",
+      "scene": 25,
+      "shot": 3,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-25-shot-03.png",
+      "relative_path": "clean_provider_frames_v2/scene-25-shot-03.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-25-shot-03.png",
+      "retention_role": "surprise/retention button",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-25-shot-09",
+      "scene": 25,
+      "shot": 9,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-25-shot-09.png",
+      "relative_path": "clean_provider_frames_v2/scene-25-shot-09.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-25-shot-09.png",
+      "retention_role": "story momentum",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-25-shot-10",
+      "scene": 25,
+      "shot": 10,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-25-shot-10.png",
+      "relative_path": "clean_provider_frames_v2/scene-25-shot-10.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-25-shot-10.png",
+      "retention_role": "comedy/reaction spike",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-25-shot-11",
+      "scene": 25,
+      "shot": 11,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-25-shot-11.png",
+      "relative_path": "clean_provider_frames_v2/scene-25-shot-11.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-25-shot-11.png",
+      "retention_role": "emotional payoff",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-25-shot-14",
+      "scene": 25,
+      "shot": 14,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-25-shot-14.png",
+      "relative_path": "clean_provider_frames_v2/scene-25-shot-14.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-25-shot-14.png",
+      "retention_role": "surprise/retention button",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-27-shot-01",
+      "scene": 27,
+      "shot": 1,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-27-shot-01.png",
+      "relative_path": "clean_provider_frames_v2/scene-27-shot-01.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-27-shot-01.png",
+      "retention_role": "scene hook",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-27-shot-02",
+      "scene": 27,
+      "shot": 2,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-27-shot-02.png",
+      "relative_path": "clean_provider_frames_v2/scene-27-shot-02.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-27-shot-02.png",
+      "retention_role": "comedy/reaction spike",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-27-shot-03",
+      "scene": 27,
+      "shot": 3,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-27-shot-03.png",
+      "relative_path": "clean_provider_frames_v2/scene-27-shot-03.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-27-shot-03.png",
+      "retention_role": "surprise/retention button",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-27-shot-09",
+      "scene": 27,
+      "shot": 9,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-27-shot-09.png",
+      "relative_path": "clean_provider_frames_v2/scene-27-shot-09.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-27-shot-09.png",
+      "retention_role": "story momentum",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-27-shot-10",
+      "scene": 27,
+      "shot": 10,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-27-shot-10.png",
+      "relative_path": "clean_provider_frames_v2/scene-27-shot-10.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-27-shot-10.png",
+      "retention_role": "comedy/reaction spike",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-27-shot-11",
+      "scene": 27,
+      "shot": 11,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-27-shot-11.png",
+      "relative_path": "clean_provider_frames_v2/scene-27-shot-11.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-27-shot-11.png",
+      "retention_role": "emotional payoff",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-27-shot-14",
+      "scene": 27,
+      "shot": 14,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-27-shot-14.png",
+      "relative_path": "clean_provider_frames_v2/scene-27-shot-14.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-27-shot-14.png",
+      "retention_role": "surprise/retention button",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-29-shot-01",
+      "scene": 29,
+      "shot": 1,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-29-shot-01.png",
+      "relative_path": "clean_provider_frames_v2/scene-29-shot-01.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-29-shot-01.png",
+      "retention_role": "scene hook",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-29-shot-02",
+      "scene": 29,
+      "shot": 2,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-29-shot-02.png",
+      "relative_path": "clean_provider_frames_v2/scene-29-shot-02.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-29-shot-02.png",
+      "retention_role": "comedy/reaction spike",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-29-shot-03",
+      "scene": 29,
+      "shot": 3,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-29-shot-03.png",
+      "relative_path": "clean_provider_frames_v2/scene-29-shot-03.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-29-shot-03.png",
+      "retention_role": "surprise/retention button",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-29-shot-09",
+      "scene": 29,
+      "shot": 9,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-29-shot-09.png",
+      "relative_path": "clean_provider_frames_v2/scene-29-shot-09.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-29-shot-09.png",
+      "retention_role": "story momentum",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-29-shot-10",
+      "scene": 29,
+      "shot": 10,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-29-shot-10.png",
+      "relative_path": "clean_provider_frames_v2/scene-29-shot-10.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-29-shot-10.png",
+      "retention_role": "comedy/reaction spike",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-29-shot-11",
+      "scene": 29,
+      "shot": 11,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-29-shot-11.png",
+      "relative_path": "clean_provider_frames_v2/scene-29-shot-11.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-29-shot-11.png",
+      "retention_role": "emotional payoff",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    },
+    {
+      "shot_id": "scene-29-shot-14",
+      "scene": 29,
+      "shot": 14,
+      "path": "C:\\Users\\Jyven\\OneDrive\\Documents\\youtube king\\production\\video_001\\clean_provider_frames_v2\\scene-29-shot-14.png",
+      "relative_path": "clean_provider_frames_v2/scene-29-shot-14.png",
+      "source_role": "clean_provider_frame_v2",
+      "provider_upload_path": "clean_provider_frames_v2/scene-29-shot-14.png",
+      "retention_role": "surprise/retention button",
+      "rules": [
+        "clean animation frame only",
+        "no captions",
+        "no UI labels",
+        "no SFX text",
+        "no reference-sheet collage",
+        "no words burned into image",
+        "no blank shirt/chest label panels",
+        "fewer characters with stronger acting"
+      ]
+    }
+  ],
+  "provider_rule": "Prefer clean_provider_frames_v2 for priority replacement clips.",
+  "quality_goals": [
+    "stronger character silhouettes",
+    "better facial readability",
+    "more expressive poses",
+    "removed blank shirt/chest panels",
+    "fewer characters per frame",
+    "mobile-readable composition"
+  ]
+}
